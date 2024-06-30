@@ -81,5 +81,11 @@
 <!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pargat-Dhanjal&theme=react&hide_border=true&include_all_commits=true&count_private=true) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codeInterpreter05&theme=react&hide_border=true)<br/>
 
+<a href="https://github.com/RedHeadphone">
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=codeInterpreter05&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=codeInterpreter05&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
+</a>
+</span>
+
 
 </div>

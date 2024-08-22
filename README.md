@@ -1,4 +1,4 @@
-ter# codeInterpreter05
+# codeInterpreter05
 <h1 align="center">Hi, I'm Sarth Upadhyay <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
 <h4 align="center">⚡️ A full stack developer and a competitive programmer ⚡️</h4>
 <!-- Profile views -->

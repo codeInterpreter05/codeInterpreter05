@@ -17,17 +17,6 @@
 
  Socials -->
 
-## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Socials 
-
-
-<a href="https://codeforces.com/profile/sarthupadhyay0507" target="_blank">
-<img src=https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://leetcode.com/u/codeInterpreter/" target="_blank">
-<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=leetcode style="margin-bottom: 5px;" />
-</a>
-<!-- Skills/ Tech Stack -->
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 

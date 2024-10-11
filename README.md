@@ -19,13 +19,6 @@
 
 ## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Socials 
 
-<a href="https://www.linkedin.com/in/sarth-upadhyay-5685522a8/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.codechef.com/users/interpreter05" target="_blank">
-<img src=https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://codeforces.com/profile/sarthupadhyay0507" target="_blank">
 <img src=https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />

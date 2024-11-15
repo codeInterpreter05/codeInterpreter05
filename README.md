@@ -67,9 +67,13 @@
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+## <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeInterpreter05&show_icons=true&locale=en" alt="codeinterpreter05" />
-</p>
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeInterpreter05&theme=transparent&hide_border=true)<br/>
+
+</div>
 
 

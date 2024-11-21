@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarth Upadhyay known as codeInterpreter05</h1>
+<h1 align="center">Hi 👋, I'm Sarth Upadhyay, codeInterpreter05</h1>
 <h3 align="center">A full stack developer, a competitive programmer and a Web3 enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeinterpreter05&label=Profile%20views&color=0e75b6&style=flat" alt="codeinterpreter05" /> </p>

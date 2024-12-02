@@ -23,8 +23,6 @@
 <h3 align="left">Tools and Technologies</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/chainlink-%233874B5.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -48,7 +46,6 @@
   <img src="https://img.shields.io/badge/react%20router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20hook%20form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white" />
   <img src="https://img.shields.io/badge/socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />

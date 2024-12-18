@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Sarth Upadhyay, codeInterpreter05
 </h1>
-<h3 align="center">A full stack developer, a competitive programmer and a AI/ML enthusiast</h3>
+<h3 align="center">A full stack developer, a competitive programmer and an AI/ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeinterpreter05&label=Profile%20views&color=0e75b6&style=flat" alt="codeinterpreter05" /> </p>
 

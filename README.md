@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeinterpreter05&label=Profile%20views&color=0e75b6&style=flat" alt="codeinterpreter05" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **sarthupadhyay0507@gmail.com**
 
